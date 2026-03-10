@@ -3,5 +3,6 @@
     <ver>1</ver>
     <size>41</size>
     <widgetname>KioskTest</widgetname>
-
+    <webtype>tizen</webtype>
 </widget>
+
